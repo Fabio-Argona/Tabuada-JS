@@ -1,4 +1,4 @@
-*Tabuada Web App
+* Tabuada Web App
 Este repositório contém um simples aplicativo web para gerar tabuadas. O aplicativo é construído utilizando HTML, CSS e JavaScript.
 
 **Estrutura do Projeto
